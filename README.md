@@ -18,7 +18,5 @@ day number.
 
 `src/Lib.hs` is a shared code for everythimg.
 
-`inputs/d%da` and `inputs/d%db` are my input data.
-
 Every executable take input file as first parameter, or reads stdin in none supplied. 
 Use ^D to put EOF in stdin, as usual.
